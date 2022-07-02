@@ -9,7 +9,7 @@ This is where all the codes will be entered later. Any code editor would work. I
 
 Create a backend (server) and a frontend (client) folder in the code editor and add all the files and folders in the server and client file in this repository to the code editor. Install the node modules in the frontend and backend with the command 'npm install'. 
 
-Ones the required dependencies have been installed for both backend and frontend from the respective packages (eg: using the command 'npm i express body-parser cors mongoose'), the code 'npm i nodemon' can be entered into the terminal to install 'nodemon' in the server folder. This dependency will automatically restart the server whenever some changes are made.
+Ones the required dependencies have been installed for both backend and frontend from the respective package.json files (eg: using the command 'npm i express body-parser cors mongoose'), the code 'npm i nodemon' can be entered into the terminal to install 'nodemon' in the server folder. This dependency will automatically restart the server whenever some changes are made.
 
 
 ## Database
