@@ -2,9 +2,9 @@
 
 ## Backend and frontend 
 The initial step consists in installing the required software which are needed to make the application function. These are as follows:
-1.	Install NodeJS
+1.	Install NodeJS:
 To install Node, either the LTS version or the current version needs to be downloaded https://nodejs.org/en/. It is recommended to work with the latest version, as this would include the latest updates.
-2.	Install a code editor
+2.	Install a code editor:
 This is where all the codes will be entered later. Any code editor would work. Here, the approach is explained using the code editor 'Visual Studio code'.( https://code.visualstudio.com )
 
 In the code editor, create a backend (server) and a frontend (client) folder, and then add all of the files and folders in the server and client files in this repository to the code editor. The command 'npm install' will install the node modules in the frontend and backend.
