@@ -24,7 +24,7 @@ After the database in Atlas has been built, the next step is obtaining a connect
 1.	Click on the connect button and choose 'connect your application'.
 2.	Choose then 'NodeJS' as the driver and select the version running on the system.
 3.	Underneath 'Add your connection string into your application code’ the connection string will be visible.
-4.	Copy the connection string and paste it into the server folder in a .env file and replace the <username>, <password> and <myFirstDatabase> with the respective information.
+4.	Copy the connection string and paste it into the server folder in a .env file and replace the username, password and myFirstDatabase with the respective information.
 
 
 ## Deployment
