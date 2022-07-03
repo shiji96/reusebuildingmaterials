@@ -13,7 +13,7 @@ Once the required dependencies for both the backend and the frontend have been i
 
 
 ## Database
-The steps to generate a MongoDB Atlas database are as follows: 
+The steps to generate a MongoDB Atlas database are as follows (https://www.mongodb.com/basics/mongodb-atlas-tutorial): 
 1.	Navigate to the MongoDB homepage and Signup to Atlas
 2.	Enter the name of the project and organization
 3.	Select the 'Shared Cluster' as the type of cluster from the options given. 
